@@ -1,0 +1,20 @@
+# Ignore build output
+out/
+build/
+
+# Ignore IDE specific files and directories
+.vscode/
+.idea/
+*.iml
+
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+
+# Ignore generated files
+target/
+bin/
+*.class
+
+# Ignore the sdk20.0.2 directory
+sdk20.0.2/

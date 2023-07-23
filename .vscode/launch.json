@@ -1,7 +1,13 @@
 {
     "version": "0.2.0",
     "configurations": [
-      
+        {
+            "type": "java",
+            "name": "FractalCanvas",
+            "request": "launch",
+            "mainClass": "FractalCanvas",
+            "projectName": "JavaFractal_eba27fcc"
+        },
         {
             "type": "java",
             "name": "FractalCanvas",
@@ -13,4 +19,5 @@
         }
     ]
 }
+
 
